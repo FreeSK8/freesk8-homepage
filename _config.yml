@@ -14,7 +14,7 @@ author: FreeSK8 Foundation NPO
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Us: "aboutme"
+  About Us: "aboutus"
   Resources  :
     - FreeSK8 Forums: "https://forum.freesk8.org"
     - Docs: "https://codex.freesk8.org/docs"
