@@ -8,7 +8,7 @@ tags: [welcome]
 comments: true
 ---
 
-There is much to do so this will be quick. Hi! :wave: We are happy to see you here and hope you enjoy your stay.
+There is much to do so this will be quick. Hi! 👋 We are happy to see you here and hope you enjoy your stay.
 
 **No time for a formal post**
 
