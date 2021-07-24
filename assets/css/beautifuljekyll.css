@@ -366,6 +366,18 @@ img {
   }
 }
 
+/* Support button in navbar */
+.navbar-custom .navbar-nav li.nav-item a[href*="patreon.com/FreeSK8Devs"] {
+  color: hotpink;
+  transition: background 300ms, color 300ms;
+}
+
+@media (min-width: 768px) {
+  .navbar-custom .navbar-nav .nav-item:not(.dropdown):last-child .nav-link {
+    padding-right: 1rem;
+  }
+}
+
 /* --- Footer --- */
 
 footer {
